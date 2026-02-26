@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "olyayabot",
+  "private_key_id": "dc26919a7129747139369f3a3b9fb25fe000ed66",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCpjleQbfKO33Nv\n1CNZU1GhMpG4LMQ0u2IuIgIBbsNIciJZBJFJ7YEQdQnLTl1dqZoR1OjvOst+jckI\nyICKGY0/HvgHUm2ZRmXnaEpqrf7BQ3uRv3uNhAAacBFFOCmAXuk+vmL2rAw3kPhc\nsDfm8p1hOKIEK5vD6MeU64PLLHkhBuI03lR+TWd8b7rWksUov8AuWW/c1hyM2vOC\nF1QYf1FJaB0LkiioEhJ4JFDfuLXr1itvlKHMfz7U+XlbPI3qVP38BEu3OT/Mko9Z\nudw6teuhAWqeB1cpcyuBNyy2NbWuL9LDYlDzSN6UyPT9FwqrTJCNRN39OL/o/z7Z\nDB9YH8RVAgMBAAECggEAC+Q8HJi0HUnApS7XTSl8cnYYeuFGNX3lid9qt+0BFzCi\nBg+S8lYM6jmQdp4dYDdH40jvuUTXXB3Xjp0j9AuMuMjpk6HippBQZKVk1WHfRHCr\ngZz7WQEmp16wEg8OohPbVJeHsKMqYYSdAUB+pdzi0BxnsyvXyyqlQhAueG5lubzO\nPGODcVBQvdb0epFdNAU2Zy+O9xDCQqnHI1tr2C1Qyq3YTBosdEC/eCqwj7QB+ls3\nlhwoYRW1Wp0ajdnQ6KMn0IfdhCRG0EUYa+8GmwrQI0an3OMksxlvgukITu6b/V3k\np2WkI5qGbJutI3CP60PdowuwS08ort+q+SUbcdCaQQKBgQDeOGyjlLkyb81JCRIT\n9o92iJJmfY/+BL1fGHthgOQju8JYGn1AlM8JV9wwqhD6aWukT5JVvScsdhmiUGEf\n6CMJkot8kt+L/RUfC5zLVi5kHs2KUUCNZpRxXbRspkfHEy0lHOt8wHY8pUpeyKBA\nZYrtD2r0xh1ayfx8J2gDjodB8QKBgQDDVIOsAI7WtZRC5Us8eMUo23PayyxszIvC\nNMcVKj8OvB5kDRuiJvxahajBhajTt5hxjV/IzobjXQLKH5MAHNCEKevgKotUnPpw\nYLW4BAfFGqMYMGO1WBxZZKB645l7WiFnMk1EmWD9zxLPNpQfSyvDvq61auXtPeJf\nSTSbuhKEpQKBgEjbeQr85OdbbpPmjG3NJeY4Cr/dpQskpK38Cd/C8YmhsqtOLAiz\ngVnP25p898oSLD+X8yN3O9PA+NCVx/I9Gte1m1QBl5d/J6ChHwwvulALJVqXHzH9\nEuhET7Zboibr655CaBbjxyBFFSgUYS4b3LuylV+hYNh2ZviRtvGLll8RAoGASqYD\n5DoaXKfsT1x90lB9WM31ispW4gWR69hrtQT+ME1od+gihWfMzXODOOIx0Se7FLpo\nvr9fAYlMRZ6neUWJ0tiKkpLvyJhthYEQMZEovwUdC2OC140i2G8CfbR5tZCOb3fj\n27GaRaVblOFQ3lzGDvrSnfaKhI4/8xZxCoqkBRkCgYAj30IpScpmLZsroz10l7vA\nIYjBhzn43PaRHC75ZLFIJdG42LX+dUnHycygpd2ehvpJIRpUtVAOu3htDvedGoeA\nPP7OsH9gzyHGm+x+R7fr5Sw0wirJ9xAgq01wcD4PwHLjhxq5XiEKdSjJo9+Wpaer\nyWqnc96tCRNh3VFjb+THzw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "olyalya-bot@olyayabot.iam.gserviceaccount.com",
+  "client_id": "118144238293445882273",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/olyalya-bot%40olyayabot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
